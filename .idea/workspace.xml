@@ -4,20 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef38a179-0e23-4a77-ba28-6d93bd8c3162" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/siddhantangore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/siddhantangore/hashing/Appendix_BirthdayParadox.java" afterDir="false" />
+    <list default="true" id="ef38a179-0e23-4a77-ba28-6d93bd8c3162" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/siddhantangore/hashing/Example_1_ImplentingChaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/siddhantangore/hashing/Appendix_BirthdayParadox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/siddhantangore/hashing/Appendix_1_BirthdayParadox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +45,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Appendix_BirthdayParadox.executor": "Run",
+    "Application.Example_1_ImplentingChaining (1).executor": "Run",
+    "Application.Example_1_ImplentingChaining (2).executor": "Run",
+    "Application.Example_1_ImplentingChaining.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,9 +61,113 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Appendix_BirthdayParadox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Appendix_BirthdayParadox" />
+  <component name="RunManager" selected="Application.Example_1_ImplementingChaining (1)">
+    <configuration name="Appendix_1_BirthdayParadox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Appendix_1_BirthdayParadox" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplementingChaining (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplementingChaining" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplementingChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplementingChaining" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplementingChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplementingChaining" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplementingChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplementingChaining" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplementingChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplementingChaining" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplentingChaining (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplentingChaining" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplentingChaining (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplentingChaining" />
+      <module name="SidCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.siddhantangore.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example_1_ImplentingChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.siddhantangore.hashing.Example_1_ImplentingChaining" />
       <module name="SidCodes" />
       <extension name="coverage">
         <pattern>
@@ -72,7 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Appendix_BirthdayParadox" />
+        <item itemvalue="Application.Example_1_ImplementingChaining (1)" />
+        <item itemvalue="Application.Example_1_ImplementingChaining" />
+        <item itemvalue="Application.Example_1_ImplementingChaining" />
+        <item itemvalue="Application.Example_1_ImplementingChaining" />
+        <item itemvalue="Application.Example_1_ImplementingChaining" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +205,20 @@
       <option name="presentableId" value="Default" />
       <updated>1724229947002</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1724246107983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724246107983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

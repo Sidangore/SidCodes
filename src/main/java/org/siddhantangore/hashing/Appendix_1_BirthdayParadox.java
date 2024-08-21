@@ -2,7 +2,7 @@ package org.siddhantangore.hashing;
 
 import java.util.Scanner;
 
-public class Appendix_BirthdayParadox {
+public class Appendix_1_BirthdayParadox {
     public static void main(String[] args) {
         System.out.println("\nWelcome to the Birthday Paradox Visualizer\n");
 
